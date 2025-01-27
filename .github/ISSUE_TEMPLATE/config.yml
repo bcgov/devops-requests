@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Request user membership to Openshift or BC Gov/BCDevOps orgs, and access to create a public GitHub repo
-    url: https://just-ask.developer.gov.bc.ca
-    about: These tasks are now self-serve using the "Jus Ask" tool :) 
+  - name: Request user membership to the public bcgov GitHub org and access to create a public GitHub repo
+    url: https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-sign-up-and-link-your-account-for-bcgov
+    about: You can now join the public bcgov GitHub org on your own. More info at the link!
+  - name: Request user membership to the private bcgov-c GitHub org
+    url: https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-sign-up-and-link-your-account-for-bcgov-c
+    about: You can now join the private bcgov-c GitHub org on your own. More info at the link!
   - name: OCP4 Project Set Requests, Annotation Updates, and Quota Changes.
     url: https://registry.developer.gov.bc.ca
     about: All of these tasks are now performed in the Project Registry - make sure to update your bookmarks!

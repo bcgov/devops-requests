@@ -25,9 +25,6 @@ Fill out the following fields
 
 * Project Name:
 * Technical Lead Github ID:
-* GitHub Org: bcgov, BCDevops, or private
+* GitHub Org: bcgov or bcgov-c
 * GitHub ID: @
 * Reason for removal:
-
-
-**Note** that the Developer Experience Team will be removing GitHub Org access **automatically** for users that are not active for six months. Once the access has been removed, a new `Access Request` has to be made by the product owner.

@@ -17,7 +17,7 @@ The request requires a repository administrator to make the request. The request
 ## Step 1
 Login to SonarCloud console with your GitHub account https://sonarcloud.io/organizations/bcgov-sonarcloud/projects. Double check at https://sonarcloud.io/account/organizations to make sure `bcgov` GitHub organization is the current org. For debugging, please check if you are a member of bcgov GitHub Organization.
 
-***Note:*** Find out more details and instructions here: https://github.com/BCDevOps/sonarqube/tree/master#sonarcloud
+***Note:*** Find out more details and instructions here: https://github.com/bcgov/sonarqube/tree/master#sonarcloud
 
 
 ## Step 2
