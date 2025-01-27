@@ -8,7 +8,7 @@ assignees: StevenBarre, tbaker1313, tmorik, wmhutchison
 ---
 
 ## Restore a backup Persistent Volume (PV)
-Please read through the documentation about [OCP4 Backup and Restore](https://developer.gov.bc.ca/OCP4-Backup-and-Restore) before proceeding with this request!
+Please read through the documentation about [OCP4 Backup and Restore](https://developer.gov.bc.ca/docs/default/component/platform-developer-docs/docs/automation-and-resiliency/netapp-backup-restore/) before proceeding with this request!
 
 > Note that only the `netapp-file-backup` type of Persistent Volume can be restored from OpenShift.
 
