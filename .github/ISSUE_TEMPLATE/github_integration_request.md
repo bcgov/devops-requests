@@ -30,7 +30,7 @@ Please fill out the team and project info so we know how to contact you:
 
 
 ## Step 2
-Please provide details about the requested GitHub App. Take a look here for a [good example](https://github.com/BCDevOps/platform-services/issues/120/)
+Please provide details about the requested GitHub App. Take a look here for a [good example](https://github.com/bcgov/platform-services/issues/120/)
 
 1. Brief introduction of the app:
 

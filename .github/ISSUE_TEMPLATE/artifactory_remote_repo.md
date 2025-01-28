@@ -16,7 +16,7 @@ Please outline why your team requires this remote repository added to your Proje
 
 ## Step 1
 Make sure no duplicated request exists, search here:
-https://github.com/BCDevOps/devops-requests/issues
+https://github.com/bcgov/devops-requests/issues
 
 ## Step 2
 Provide the name of your Artifactory Project: 
