@@ -10,9 +10,9 @@ assignees: MonicaG, oomIRL, SHIHO-I
 
 ## Step 1
 Make sure no duplicated request exists, search here:
-https://github.com/BCDevOps/devops-requests/issues
+https://github.com/bcgov/devops-requests/issues
 
-Make sure you have read the [FAQ](https://github.com/BCDevOps/devops-requests/).
+Make sure you have read the [FAQ](https://github.com/bcgov/devops-requests/).
 
 
 ## Step 2

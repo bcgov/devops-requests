@@ -23,7 +23,7 @@ If not, you'll need to be added as member first. Please open a ticket for that, 
 
 ## Step 1
 Make sure no duplicated request exists, search here:
-https://github.com/BCDevOps/devops-requests/issues
+https://github.com/bcgov/devops-requests/issues
 
 
 ## Step 2

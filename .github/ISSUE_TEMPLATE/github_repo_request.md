@@ -11,11 +11,11 @@ assignees: MonicaG, oomIRL, SHIHO-I
 
 **Are you looking to make a public repository?**
 If you are a member of the public bcgov GitHub Organization, you are already able to make a new repo there yourself!
-If you are not a member, please request membership using the appropriate ticket template instead of using this one.
+
 This template is for **private** repos only.
 
 **Are you a member of the private BC Gov-managed organization already?**
-If not, you will need to request membership first. Return to the Issues page and fill out that request first.
+If not, you will need to request membership first. Join the bcgov-c organization by following these [instructions](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-sign-up-and-link-your-account-for-bcgov-c). 
 
 **Are you sure you need to have your project code close-sourced?**
 We highly recommend open source, secrets and any sensitive information should never be part of your codebase. 
@@ -23,7 +23,7 @@ If you still think your code needs to be private, please provide the details in 
 
 ## Step 1
 Make sure no duplicated request exists, search here:
-https://github.com/BCDevOps/devops-requests/issues
+https://github.com/bcgov/devops-requests/issues
 
 
 ## Step 2
@@ -48,6 +48,10 @@ Fill out the following fields. For security purposes, please provide the followi
 
 
 ## Step 4
-Once you have a private repo and would like to invite more team members to work on it, please create a `Request for BCGOV-C Private GitHub Organization Membership`!
+Once you have a private repo, create a team to manage access to it. All team members will need to be members of the bcgov-c organization. If they are not already members, they can join by following these [instructions](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-sign-up-and-link-your-account-for-bcgov-c).
 
-**Note** that the Developer Experience team will be removing GitHub Org access for users that are not active for six months. Once the access has been removed, a new `Access Request` has to be made by the product owner.
+Learn how to:
+
+* [Create a team](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team)
+* [Add members to a team](https://docs.github.com/en/organizations/organizing-members-into-teams/adding-organization-members-to-a-team)
+* [Manage team access to an organization repository](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-repository-roles/managing-team-access-to-an-organization-repository)
