@@ -6,9 +6,9 @@ contact_links:
   - name: Request user membership to the private bcgov-c GitHub org
     url: https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-sign-up-and-link-your-account-for-bcgov-c
     about: You can now join the private bcgov-c GitHub org on your own. More info at the link!
-  - name: Request for a private repository in the `bcgov-c` GitHub organization
+  - name: Request for a private repository in the bcgov-c GitHub organization
     url: https://citz-do.atlassian.net/servicedesk/customer/portal/2/group/9/create/60
-    about: Please submit a request using the link above to make your request for a private repository in the `bcgov-c` GitHub organization.
+    about: Please submit a request using the link above to make your request for a private repository in the bcgov-c GitHub organization.
   - name: OCP4 Project Set Requests, Annotation Updates, and Quota Changes.
     url: https://registry.developer.gov.bc.ca
     about: All of these tasks are now performed in the Project Registry - make sure to update your bookmarks!
