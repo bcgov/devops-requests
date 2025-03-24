@@ -12,6 +12,9 @@ contact_links:
   - name: Reclaim a repository with no admin
     url: https://citz-do.atlassian.net/servicedesk/customer/portal/2/group/9/create/22
     about: If you require access to a GitHub repository that has no administrators in a BC gov-managed GitHub organization, please submit a request via the link above.
+  - name: Request to have a GitHub Application added to a repository in a BC gov-managed GitHub organization
+    url: https://citz-do.atlassian.net/servicedesk/customer/portal/2/group/9/create/10
+    about: Please submit a request using the link above to request having a GitHub Application added to a repository within a BC gov-managed GitHub organization.
   - name: OCP4 Project Set Requests, Annotation Updates, and Quota Changes.
     url: https://registry.developer.gov.bc.ca
     about: All of these tasks are now performed in the Project Registry - make sure to update your bookmarks!
