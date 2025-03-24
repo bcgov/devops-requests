@@ -9,6 +9,9 @@ contact_links:
   - name: Request for a private repository in the bcgov-c GitHub organization
     url: https://citz-do.atlassian.net/servicedesk/customer/portal/2/group/9/create/60
     about: Please submit a request using the link above to make your request for a private repository in the bcgov-c GitHub organization.
+  - name: Reclaim a repository with no admin
+    url: https://citz-do.atlassian.net/servicedesk/customer/portal/2/group/9/create/22
+    about: If you require access to a GitHub repository that has no administrators in a BC gov-managed GitHub organization, please submit a request via the link above.
   - name: OCP4 Project Set Requests, Annotation Updates, and Quota Changes.
     url: https://registry.developer.gov.bc.ca
     about: All of these tasks are now performed in the Project Registry - make sure to update your bookmarks!
@@ -21,4 +24,3 @@ contact_links:
   - name: Get support
     url: https://digital.gov.bc.ca/cloud/services/private/support/
     about: View different support resources and channels.
-
