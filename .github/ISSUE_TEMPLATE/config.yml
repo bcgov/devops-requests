@@ -15,6 +15,9 @@ contact_links:
   - name: Request to have a GitHub Application added to a repository in a BC gov-managed GitHub organization
     url: https://citz-do.atlassian.net/servicedesk/customer/portal/2/group/9/create/10
     about: Please submit a request using the link above to request having a GitHub Application added to a repository within a BC gov-managed GitHub organization.
+  - name: Request to transfer repo into bcgov-c
+    url: https://citz-do.atlassian.net/servicedesk/customer/portal/2/group/9/create/294
+    about: Please submit a request using the link above to request transferring a repository into the bcgov-c GitHub organization.
   - name: OCP4 Project Set Requests, Annotation Updates, and Quota Changes.
     url: https://registry.developer.gov.bc.ca
     about: All of these tasks are now performed in the Project Registry - make sure to update your bookmarks!
